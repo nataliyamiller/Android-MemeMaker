@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nataliyamiller/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="/Users/nataliyamiller/Downloads/mememaker 2/app/build/intermediates/pre-dexed/debug/support-v4-19.0.1-7bfcf067243a1fe5c592bb1d3de6704026c8f37f.jar" />
+    </item>
+    <item
+        jar="/Users/nataliyamiller/Downloads/mememaker 2/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/nataliyamiller/Downloads/mememaker 2/app/build/intermediates/pre-dexed/debug/commons-io-2.4-421b36823f71254f67df2cea434618da82167258.jar" />
+    </item>
+    <item
+        jar="/Users/nataliyamiller/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v13/19.0.1/support-v13-19.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a4d00c1fa39c05a544fc2221af40bbf76e07c7df">
+        <dex dex="/Users/nataliyamiller/Downloads/mememaker 2/app/build/intermediates/pre-dexed/debug/support-v13-19.0.1-ed1f4504795ad4d8c4dc1a29e50e87d68c47fc81.jar" />
+    </item>
+
+</items>
